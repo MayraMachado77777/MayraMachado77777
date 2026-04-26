@@ -7,10 +7,10 @@
 ### 👩‍💻 Sobre Mim
 Atualmente em **Braga, Portugal**, sou uma profissional híbrida que une **Tecnologia** e **Finanças Corporativas**. Com formação em Administração e cursando Tecnologia em Sistemas pela **PUC Minas**, foco em criar soluções que integram eficiência operacional e análise estratégica.
 
-- [cite_start]🎓 **Educação:** Tecnologia em Sistemas (PUC Minas) e Administração[cite: 4, 5].
-- [cite_start]💼 **Atual:** Customer Financial Services na **FedEx**, com foco em SAP e análise via SQL[cite: 15, 18].
-- [cite_start]🚀 **Dev:** Full Stack Freelancer na Ingage, com foco principal em **C# (.NET)**, além de React, Python e Angular[cite: 20, 21].
-- 🌍 **Idiomas:** Nativa em Português | **C1 em Francês e Espanhol** | [cite_start]B2 em Inglês[cite: 115, 122, 128, 134].
+- 🎓 **Educação:** Tecnologia em Sistemas (PUC Minas) e Administração.
+- 💼 **Atual:** Customer Financial Services na **FedEx**, com foco em SAP e análise via SQL.
+- 🚀 **Dev:** Full Stack Freelancer na Ingage, com foco principal em **C# (.NET)**, além de React, Python e Angular.
+- 🌍 **Idiomas:** Nativa em Português | **C1 em Francês e Espanhol** | B2 em Inglês.
 
 ---
 
@@ -30,9 +30,9 @@ Atualmente em **Braga, Portugal**, sou uma profissional híbrida que une **Tecno
 ---
 
 ### 📈 O que eu trago para a mesa?
-* [cite_start]**Ecossistema Microsoft:** Experiência em desenvolvimento com **C#** e integração com **Azure** e **SQL Server**[cite: 17, 21].
-* [cite_start]**Visão Global:** Gestão financeira internacional para mercados da França, Canadá e EUA[cite: 40].
-* [cite_start]**Data-Driven:** Especialista em transformar dados brutos em dashboards estratégicos (Power BI/Tableau)[cite: 25].
+* **Ecossistema Microsoft:** Experiência em desenvolvimento com **C#** e integração com **Azure** e **SQL Server**.
+* **Visão Global:** Gestão financeira internacional para mercados da França, Canadá e EUA.
+* **Data-Driven:** Especialista em transformar dados brutos em dashboards estratégicos (Power BI/Tableau).
 
 ---
 
